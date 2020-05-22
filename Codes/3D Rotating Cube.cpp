@@ -1,3 +1,5 @@
+//Coded by Mark Daniel G. Dacer
+
 #include <GL/glut.h>
 
 void display();
