@@ -1,7 +1,7 @@
 // hello_window.cpp
 //
 // created by Mark Daniel G. Dacer at BukSU
-// https://github.com/Jaeger47/Learning-OpenGL-
+// https://github.com/Jaeger47/Learning-OpenGL
 //
 
 #include <GL/glut.h> // OpenGL Utility 
