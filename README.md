@@ -12,5 +12,5 @@ Readings:
 
 [1. Hello Window](https://github.com/Jaeger47/Learning-OpenGL/blob/master/Computer%20Graphics%20Programming%20Using%20C%2B%2B%20and%20OpenGL/hello_world.cpp)
 
-![Image of OpenGL](https://github.com/Jaeger47/Learning-OpenGL/blob/master/Media/optimized.jpg)
+![Image of OpenGL](https://live.staticflickr.com/65535/49939646833_7b6066f050_w.jpg)
 
