@@ -4,6 +4,8 @@
 
 Learning OpenGL for Computer Graphics Programming 
 
+**Instructor: Mark Daniel G. Dacer**
+
 Readings:
 [OpenGL Documentation](https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/)
 [GLUT Documentation](https://www.opengl.org/resources/libraries/glut/spec3/spec3.html)
