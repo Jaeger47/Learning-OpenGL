@@ -4,7 +4,7 @@
 // https://jaeger47.github.io/Learning-OpenGL/
 //
 
-#include <GL/glut.h> // OpenGL Utility 
+#include <GL/glut.h> // OpenGL Utility ToolKit Library
 
 void display(); //declare a function
 
