@@ -4,4 +4,4 @@
 
 Learning OpenGL for Computer Graphics Programming 
 
-making IMs for students
+**Tutorial #1**
