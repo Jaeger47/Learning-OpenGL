@@ -6,7 +6,7 @@
 
 #include <GL/glut.h> // OpenGL Utility 
 
-void display();
+void display(); //declare a function
 
 int main(int argc,char**argv)
 {
