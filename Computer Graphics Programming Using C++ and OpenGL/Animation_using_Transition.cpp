@@ -54,8 +54,9 @@ void display()
 	//clear transforms
 	glLoadIdentity();
 
-	//creating a square primitive at the far left
+	//translate primitive position
 	glTranslatef(x_pos,0,0);
+	//creating a square primitive at the centre
 	glBegin(GL_POLYGON);
 
 	glVertex2f(1,1);
