@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LAYER 0</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style_contain.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<div class="bg"></div>
+<div>
+	<div class="title">
+		<h1 id="demo"></h1>
+	</div>
+	<div class="textBody">
+		<p>Personal Blog</p>
+		<p style="font-size: 12px;">Copyright @ 2021</p>
+		<p style="font-size: 12px;">markdacer21@gmail.com</p>
+		<p><b>Welcome to my World</b></p>
+		<p><i>No matter where you go, everyone's connected.</i></p>
+	</div>	
+	<br/>
+	<a href="articles/god.html" style="text-decoration: none;color: white;">
+	<img class="centerImg" src="images/whoami.gif" alt="god">
+	</a>
+	<br><br>
+	<a href="articles/god.html" style="text-decoration: none;color: white;">
+	<div class="myDiv">
+	  <h2><u>Welcome Visitors</u></h2>
+	  <p>
+	    I'm happy to see you, thank you for visiting me. I hope you like
+		the aesthetics and music of this world, the world's design is influence
+		by this unknown man named "terminal 00". I liked his work of art and decide
+		to create my own world too. If you want talk about how I build this world or other stuff, you can
+		contact me through my various accounts 
+		<a target="_blank" href="https://myanimelist.net/profile/Jaeger47">Myanimelist</a>
+		<a target="_blank" href="https://steamcommunity.com/id/muhamark">Steam</a>
+		<a target="_blank" href="https://github.com/Jaeger47">GitHub</a>
+		<a href="articles/god.html" style="text-decoration: none;"><b><u><p style="text-align: center;color: lightblue;">READ MORE</p></u></b></a>
+		</p>
+	</div>
+	</a>
+	<br/><br/>
+	<a href="articles/wired.html" style="text-decoration: none;color: white;">
+	<div class="myDiv">
+	  <h2><u>The Wired</u></h2>
+	  <h2 style="font-size: 13px;">Oct. 26, 2021</h2>
+	  <p>
+	  My fascination with the "Wired" and "CyberWorld". lead me to think in my early teen years. 
+	  I thought to myself, what if we can transfer our consciousness temporarily or permanently 
+	  on the internet, a game, or a computer. It would be a wonderful feeling to be fully immersed 
+	  in your favorite game, hang out with your friends that are far away, do random things without 
+	  consequences, even old people can feel young inside this world that we can customize and control. 
+	  But it won't be perfect, it will have many risks, but still, I wish I'm still alive to experience this.
+	  <b><u><p style="text-align: center;color: lightblue;">READ MORE</p></u></b>
+	  </p>
+	</div>
+	</a>
+	
+	<br/><br/>
+	
+	<div style="text-align: center;">
+    <span style="padding:0.1rem;background-color:#262626">
+        <a style="text-decoration: none;color: white;position:relative;" href="mailto:markdacer21@gmail.com">p0mf</a><i>　©　2021</i>
+    </span>
+	</div>
+	
+	<br/><br/>
+</div>
+
+<audio autoplay loop id="bgm">
+	<source  src="sounds/bgm.mp3" type="audio/mp3" onplay="handleFirstPlay(event)">
+</audio>
+<audio autoplay loop id="zoom">
+	<source  src="sounds/boon_loop.wav" type="audio/wav" onplay="handleFirstPlay(event)">
+</audio>
+
+<script src="../script.js"></script>
+<script>
+	var audio_zoom = document.getElementById("zoom");
+		audio_zoom.volume = 0.5;
+	var audio_zoom = document.getElementById("bgm");
+		audio_zoom.volume = 0.5;
+</script>
+
+<script src="script.js"></script>
+
+
+</body>
+</html>
