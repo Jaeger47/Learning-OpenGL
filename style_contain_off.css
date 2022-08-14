@@ -3,6 +3,11 @@
   src: url(fonts/homespun.ttf);
 }
 
+video {
+  width: 70%;
+  height: auto;
+}
+
 .myDiv {
   display: block;
   background-color: black;    
