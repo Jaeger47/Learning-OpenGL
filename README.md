@@ -12,7 +12,7 @@ Readings:
 
 ### Lessons
 
-<a href="https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B0%5DEMC122-%20Introduction%20(1st%20Sem.%202022-2023).pdf"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Introduction of the course](https://github.com/Jaeger47/Learning-OpenGL/raw/master/%5BSlides%5D/%5B0%5DEMC122-%20Introduction%20(1st%20Sem.%202022-2023).pdf)
+<a href="https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B0%5DEMC122-%20Introduction%20(1st%20Sem.%202022-2023).pdf"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Introduction of the course](https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B0%5DEMC122-%20Introduction%20(1st%20Sem.%202022-2023).pdf)
 
 <a href="https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B0%5DEMC122-%20Introduction%20(1st%20Sem.%202022-2023).pdf"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Introduction of the course](https://github.com/Jaeger47/Learning-OpenGL/raw/master/%5BSlides%5D/%5B0%5DEMC122-%20Introduction%20(1st%20Sem.%202022-2023).pdf)
 
