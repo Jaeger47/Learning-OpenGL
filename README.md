@@ -16,7 +16,7 @@ Readings:
 
 <a href="https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B1%5DLesson%201%20-%20OpenGL.pdf"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Lesson 1 - OpenGL](https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B1%5DLesson%201%20-%20OpenGL.pdf)
 
-[Hello Window](https://github.com/Jaeger47/Learning-OpenGL/blob/master/1%20-%20Hello%20window/1%20-%20Hello_window.cpp)
+[▼ Hello_window.cpp](https://github.com/Jaeger47/Learning-OpenGL/blob/master/1%20-%20Hello%20window/1%20-%20Hello_window.cpp)
 
 ![Image of OpenGL](https://live.staticflickr.com/65535/49939646833_7b6066f050_w.jpg)
 
