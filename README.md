@@ -12,7 +12,7 @@ Readings:
 
 ### Lessons
 
-![Image of PDF]<img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="200" height="200">
+<img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="100" height="150">
 
 [1. Hello Window](https://github.com/Jaeger47/Learning-OpenGL/blob/master/1%20-%20Hello%20window/1%20-%20Hello_window.cpp)
 
