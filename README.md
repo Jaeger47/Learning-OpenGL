@@ -12,7 +12,7 @@ Readings:
 
 ### Lessons
 
-<img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="70">(https://www.opengl.org/resources/libraries/glut/spec3/spec3.html) Introduction
+<img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="70"> Introduction of the course(https://github.com/Jaeger47/Learning-OpenGL/raw/master/%5BSlides%5D/%5B0%5DEMC122-%20Introduction%20(1st%20Sem.%202022-2023).pdf)
 
 [1. Hello Window](https://github.com/Jaeger47/Learning-OpenGL/blob/master/1%20-%20Hello%20window/1%20-%20Hello_window.cpp)
 
