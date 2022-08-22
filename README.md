@@ -4,7 +4,7 @@
 
 Learning OpenGL for Computer Graphics Programming with C++
 
-**Instructor: Mark Daniel G. Dacer**
+**Instructor: Mark Daniel G. Dacer**(https://p0mf.netlify.app/articles/god.html)
 
 Readings:
 [OpenGL Documentation](https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/)
