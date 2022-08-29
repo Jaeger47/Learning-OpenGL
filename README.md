@@ -20,7 +20,7 @@ Readings:
 
 ![Image of OpenGL](https://live.staticflickr.com/65535/49939646833_7b6066f050_w.jpg)
 
-<a href="https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B2%5DLesson%202%20-%20Drawing%20Objects.pdf"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Lesson 2 - Drawing Objects](https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B2%5DLesson%202%20-%20Drawing%20Objects.pdf.pdf)
+<a href="https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B2%5DLesson%202%20-%20Drawing%20Objects.pdf"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Lesson 2 - Drawing Objects](https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B2%5DLesson%202%20-%20Drawing%20Objects.pdf)
 
 [▼ Basic_primitives.cpp](https://github.com/Jaeger47/Learning-OpenGL/blob/master/2%20-%20Basic%20Primitives/2-%20Basic_primitives.cpp)
 
