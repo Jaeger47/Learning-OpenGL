@@ -31,3 +31,9 @@ Readings:
 [▼ Transformations.cpp](https://github.com/Jaeger47/Learning-OpenGL/blob/master/3%20-%20Transformations/3%20-%20Transformations.cpp)
 
 ![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/transformations.gif)
+
+<a href="https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B4%5DLesson%204-%20Colors.pdf"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Lesson 4 - Colours](https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B4%5DLesson%204-%20Colors.pdf)
+
+[▼ Colours.cpp](https://github.com/Jaeger47/Learning-OpenGL/blob/master/4%20-%20Colours/4%20-%20Color.cpp)
+
+![Image of OpenGL](https://github.com/Jaeger47/Learning-OpenGL/blob/master/_misc/color.JPG)
