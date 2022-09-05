@@ -25,3 +25,9 @@ Readings:
 [▼ Basic_primitives.cpp](https://github.com/Jaeger47/Learning-OpenGL/blob/master/2%20-%20Basic%20Primitives/2-%20Basic_primitives.cpp)
 
 ![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/primitives.JPG)
+
+<a href="https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B3%5DLesson%203-%20Transformations.pdf"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Lesson 3 - Transformations](https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B3%5DLesson%203-%20Transformations.pdf)
+
+[▼ Transformations.cpp](https://github.com/Jaeger47/Learning-OpenGL/blob/master/3%20-%20Transformations/3%20-%20Transformations.cpp)
+
+![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/transformations.gif)
