@@ -36,4 +36,4 @@ Readings:
 
 [▼ Colours.cpp](https://github.com/Jaeger47/Learning-OpenGL/blob/master/4%20-%20Colours/4%20-%20Color.cpp)
 
-![Image of OpenGL](https://github.com/Jaeger47/Learning-OpenGL/blob/master/_misc/color.JPG)
+![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/color.JPG)
