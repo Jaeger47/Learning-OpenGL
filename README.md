@@ -37,3 +37,13 @@ Readings:
 [▼ Colours.cpp](https://github.com/Jaeger47/Learning-OpenGL/blob/master/4%20-%20Colours/4%20-%20Color.cpp)
 
 ![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/color.JPG)
+
+<a href="https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B5%5DGoing%203D%20-%205.pdf"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Lesson 5 - Going 3D](https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B5%5DGoing%203D%20-%205.pdf)
+
+[▼ house.cpp](https://github.com/Jaeger47/Learning-OpenGL/blob/master/5%20-%20Going%203D/%5B1%5DCode%20Ex.%20-%20Spining%20House/house.cpp)
+
+![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/house.PNG)
+
+[▼ going3d.cpp](https://github.com/Jaeger47/Learning-OpenGL/tree/master/5%20-%20Going%203D/%5B2%5DCode%20Ex.%20-%20solids%20%26%20external%20functions)
+
+![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/3d.PNG)
