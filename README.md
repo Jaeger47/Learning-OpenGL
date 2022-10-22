@@ -47,3 +47,9 @@ Readings:
 [▼ going3d.cpp](https://github.com/Jaeger47/Learning-OpenGL/tree/master/5%20-%20Going%203D/%5B2%5DCode%20Ex.%20-%20solids%20%26%20external%20functions)
 
 ![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/3d.PNG)
+
+<a href="https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B6%5DLesson%206%20-%20OpenGL.pdf.pdf"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Lesson 6 - Lighting](https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B6%5DLesson%206%20-%20OpenGL.pdf.pdf)
+
+[▼ lighting.cpp](https://github.com/Jaeger47/Learning-OpenGL/blob/master/6%20-%20Lighting/lighting.cpp)
+
+![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/lighting.JPG)
