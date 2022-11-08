@@ -62,4 +62,4 @@ Readings:
 
 [▼ multiTexture.cpp](https://github.com/Jaeger47/Learning-OpenGL/tree/master/7%20-%20Textures/Muti-Texture%20Quadric)
 
-![Image of OpenGL](https://github.com/Jaeger47/Learning-OpenGL/blob/master/_misc/texture2.PNG)
+![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/texture2.PNG)
