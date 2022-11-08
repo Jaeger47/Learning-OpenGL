@@ -53,3 +53,13 @@ Readings:
 [▼ lighting.cpp](https://github.com/Jaeger47/Learning-OpenGL/blob/master/6%20-%20Lighting/lighting.cpp)
 
 ![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/lighting.JPG)
+
+<a href="https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B7%5DLesson%207%20-%20%20Quadric%20Shapes%20%26%20Texturing.pdf"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Lesson 7 - Quadric Shapes and Multi-Texturing](https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B7%5DLesson%207%20-%20%20Quadric%20Shapes%20%26%20Texturing.pdf)
+
+[▼ customBox.cpp](https://github.com/Jaeger47/Learning-OpenGL/tree/master/7%20-%20Textures/Custom%20Box)
+
+![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/texture1.PNG)
+
+[▼ multiTexture.cpp](https://github.com/Jaeger47/Learning-OpenGL/tree/master/7%20-%20Textures/Muti-Texture%20Quadric)
+
+![Image of OpenGL](https://github.com/Jaeger47/Learning-OpenGL/blob/master/_misc/texture2.PNG)
