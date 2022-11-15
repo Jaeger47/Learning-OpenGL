@@ -50,8 +50,7 @@ void initRendering() {
 	glEnable(GL_COLOR_MATERIAL);
 	glShadeModel(GL_SMOOTH);
 
-	glEnable(GL_BLEND);
-	glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_COLOR);
+
 
 	Image* image = loadBMP("vtr.bmp");
 	_textureId = loadTexture(image);
@@ -99,7 +98,7 @@ void display() {
 
 	glRotatef(angle, 1, 1, 0);
 
-	glColor4f(1, 0, 0, 0.25);
+	
 	glBegin(GL_QUADS);
 		//front
 		glNormal3f(0.0f, 0.0f, 1.0f);
