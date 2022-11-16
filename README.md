@@ -48,7 +48,7 @@ Readings:
 
 ![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/3d.PNG)
 
-<a href="https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B6%5DLesson%206%20-%20OpenGL.pdf.pdf"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Lesson 6 - Lighting](https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B6%5DLesson%206%20-%20OpenGL.pdf.pdf)
+<a href="https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B6%5DLesson%206%20-%20Lighting.pdf"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Lesson 6 - Lighting](https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B6%5DLesson%206%20-%20Lighting.pdf)
 
 [▼ lighting.cpp](https://github.com/Jaeger47/Learning-OpenGL/blob/master/6%20-%20Lighting/lighting.cpp)
 
