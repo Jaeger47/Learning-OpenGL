@@ -63,3 +63,27 @@ Readings:
 [▼ multiTexture.cpp](https://github.com/Jaeger47/Learning-OpenGL/tree/master/7%20-%20Textures/Muti-Texture%20Quadric)
 
 ![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/texture2.PNG)
+
+<a href="https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B8%5D%20Lesson%208%20-%20Blending%20%26%20Fog.pdf"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Lesson 8 - Blending & Fog](https://github.com/Jaeger47/Learning-OpenGL/blob/master/%5BSlides%5D/%5B8%5D%20Lesson%208%20-%20Blending%20%26%20Fog.pdf)
+
+[▼ blending.cpp](https://github.com/Jaeger47/Learning-OpenGL/tree/master/8%20-%20Alpha%20Blending%2C%20Fog%2C%20Aliasing/Blending)
+
+![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/blending.PNG)
+
+[▼ fog.cpp](https://github.com/Jaeger47/Learning-OpenGL/tree/master/8%20-%20Alpha%20Blending%2C%20Fog%2C%20Aliasing/Fog)
+
+![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/fog.PNG)
+
+<a href="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/%5BSlides%5D/%5B9%5DLesson%20-%209%20OpenGL%20Inputs%20and%20Camera.pptx"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Lesson 9 - Events and Camera](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/%5BSlides%5D/%5B9%5DLesson%20-%209%20OpenGL%20Inputs%20and%20Camera.pptx)
+
+[▼ event&camera.cpp](https://github.com/Jaeger47/Learning-OpenGL/tree/master/9%20-%20Events%20%26%20Camera)
+
+![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/camera.PNG)
+
+<a href="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/%5BSlides%5D/%5B10%5DLesson%2010%20OpenGL%20TEXT%20AND%20SOUND.pptx"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Lesson 10 - Text & Sound](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/%5BSlides%5D/%5B10%5DLesson%2010%20OpenGL%20TEXT%20AND%20SOUND.pptx)
+
+[▼ event&camera.cpp](https://github.com/Jaeger47/Learning-OpenGL/tree/master/_10%20-Menu%2C%20Text%20and%20Sound)
+
+https://user-images.githubusercontent.com/25429742/202532543-9fb2da28-c1f3-4d31-978e-28b06e10f40d.mp4
+
+
