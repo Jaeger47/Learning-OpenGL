@@ -85,6 +85,7 @@ Readings:
 [▼ event&camera.cpp](https://github.com/Jaeger47/Learning-OpenGL/tree/master/_10%20-Menu%2C%20Text%20and%20Sound)
 
 https://user-images.githubusercontent.com/25429742/202532543-9fb2da28-c1f3-4d31-978e-28b06e10f40d.mp4
+
 <video width="640" height="480" controls>
   <source src="https://user-images.githubusercontent.com/25429742/202532543-9fb2da28-c1f3-4d31-978e-28b06e10f40d.mp4" type="video/mp4">
 </video>
