@@ -9,6 +9,8 @@ Learning OpenGL for Computer Graphics Programming with C++
 Readings:
 [OpenGL Documentation](https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/)
 [GLUT Documentation](https://www.opengl.org/resources/libraries/glut/spec3/spec3.html)
+[Introduction on OpenGL](https://www3.ntu.edu.sg/home/ehchua/programming/opengl/cg_introduction.html)
+[OpenGL Tutorial](http://www.cs.uccs.edu/~ssemwal/indexGLTutorial.html)
 
 ### Lessons
 
