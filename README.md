@@ -82,7 +82,11 @@ Readings:
 
 <a href="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/%5BSlides%5D/%5B10%5DLesson%2010%20OpenGL%20TEXT%20AND%20SOUND.pptx"><img src="https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/pdf.png" width="50" height="65"/></a> [Lesson 10 - Text & Sound](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/%5BSlides%5D/%5B10%5DLesson%2010%20OpenGL%20TEXT%20AND%20SOUND.pptx)
 
-[▼ event&camera.cpp](https://github.com/Jaeger47/Learning-OpenGL/tree/master/_10%20-Menu%2C%20Text%20and%20Sound)
+[▼ text.cpp](https://github.com/Jaeger47/Learning-OpenGL/tree/master/_10%20-Menu%2C%20Text%20and%20Sound/TEXT)
+
+![Image of OpenGL](https://raw.githubusercontent.com/Jaeger47/Learning-OpenGL/master/_misc/text.PNG)
+
+[▼ Sound.cpp](https://github.com/Jaeger47/Learning-OpenGL/tree/master/_10%20-Menu%2C%20Text%20and%20Sound)
 
 https://user-images.githubusercontent.com/25429742/202532543-9fb2da28-c1f3-4d31-978e-28b06e10f40d.mp4
 
