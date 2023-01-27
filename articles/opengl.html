@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LAYER 0-1</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../style_contain.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<div class="bg"></div>
+<div>
+	<div class="title">
+		<a href="../main.html" style="text-decoration: none;color: white;"><h1 id="demo"></h1></a>
+	</div>
+	
+	<div class="myDiv">
+	  <h2><u>Learning OpenGL</u></h2>
+	  <h2 style="font-size: 13px;">January 16, 2023</h2>
+	  <iframe src="https://jaeger47.github.io/Learning-OpenGL/" frameborder="0" style="overflow:hidden;height:1000px;width:100%" height="100%" width="100%" title="OpenGL"></iframe>
+	</div>
+	<br/><br/>
+</div>
+
+<audio autoplay loop id="zoom">
+	<source  src="../sounds/boon_loop.wav" type="audio/wav" onplay="handleFirstPlay(event)">
+</audio>
+
+<script src="../script.js"></script>
+<script>
+	var audio_zoom = document.getElementById("zoom");
+		audio_zoom.volume = 0.2;
+</script>
+
+</body>
+</html>
