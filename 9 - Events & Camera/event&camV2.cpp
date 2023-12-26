@@ -21,10 +21,10 @@
  * www.github.com/Jaeger47/Learning-OpenGL
  */
 
-
+#define STB_IMAGE_IMPLEMENTATION
 #include <iostream>
 #include <gl/glut.h>
-#include "imageloader.h"
+#include "stb_image.h"
 
 using namespace std;
 
@@ -32,12 +32,14 @@ void display();
 void reshape(int, int);
 void update(int);
 void cube();
-GLuint loadTexture(Image* image);
 
 void handleMouseMove(int, int);
 void handleKeyPress(unsigned char, int, int);
 void handleKeyRelease(unsigned char, int, int);
 void updateCamera();
+
+void loadTexture(const char*, GLuint&, GLenum);
+void loadAllTextures();
 
 int windowWidth = 800;
 int windowHeight = 600;
@@ -59,7 +61,7 @@ bool isJumping = false;
 bool isGrounded = true;
 
 float _angle = -70.0f; // objects angle
-GLuint _textureId;
+GLuint grassTex;
 
 //set materials
 GLfloat mat_specular[] = { 1.0, 1.0, 1.0, 1.0 }; 
@@ -85,6 +87,8 @@ void initRendering() {
 	glEnable(GL_AUTO_NORMAL);
 	glShadeModel(GL_SMOOTH); //Enable smooth shading
 
+	loadAllTextures();
+
 	 glEnable(GL_FOG);
    {
       GLfloat fogColor[4] = {0.5, 0.5, 0.5, 1.0};
@@ -99,9 +103,7 @@ void initRendering() {
    }
    glClearColor(0.5, 0.5, 0.5, 1.0);  /* fog color */
 
-	Image* image = loadBMP("grass.bmp");
-	_textureId = loadTexture(image);
-	delete image;
+	
 }
 
 
@@ -175,10 +177,9 @@ void display() {
 	glPushMatrix();
 
 	glEnable(GL_TEXTURE_2D);
-	glBindTexture(GL_TEXTURE_2D, _textureId);
+	glBindTexture(GL_TEXTURE_2D, grassTex);
 
-	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR);
-	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
+
 	glTranslatef(0.0f, -1.0f, 0.0f);
 	glBegin(GL_QUADS);
 		glColor3f(1.0f,1.0f,1.0f);
@@ -291,23 +292,32 @@ void updateCamera() {
 
 
 
-//Makes the image into a texture, and returns the id of the texture
-GLuint loadTexture(Image* image) {
-	GLuint textureId;
-	glGenTextures(1, &textureId); //Make room for our texture
-	glBindTexture(GL_TEXTURE_2D, textureId); //Tell OpenGL which texture to edit
-	//Map the image to the texture
-	glTexImage2D(GL_TEXTURE_2D,                //Always GL_TEXTURE_2D
-				 0,                            //0 for now
-				 GL_RGB,                       //Format OpenGL uses for image
-				 image->width, image->height,  //Width and height
-				 0,                            //The border of the image
-				 GL_RGB, //GL_RGB, because pixels are stored in RGB format
-				 GL_UNSIGNED_BYTE, //GL_UNSIGNED_BYTE, because pixels are stored
-				                   //as unsigned numbers
-				 image->pixels);               //The actual pixel data
-	return textureId; //Returns the id of the texture
+
+void loadTexture(const char* fileName, GLuint& textureID, GLenum format) {
+    int width, height, nrChannels;
+    unsigned char *data = stbi_load(fileName, &width, &height, &nrChannels, 0);
+
+    if (data) {
+        glGenTextures(1, &textureID);
+        glBindTexture(GL_TEXTURE_2D, textureID);
+        glTexImage2D(GL_TEXTURE_2D, 0, format, width, height, 0, format, GL_UNSIGNED_BYTE, data);
+        glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR);
+		glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
+
+        stbi_image_free(data);
+    } else {
+        // Handle error loading texture
+        std::cerr << "Failed to load texture: " << fileName << std::endl;
+    }
 }
+
+void loadAllTextures() {
+    
+    loadTexture("grass.bmp", grassTex, GL_RGB); // Change GL_RGB to GL_RGBA for blending if needed
+
+}
+
+
 
 
 //cube
